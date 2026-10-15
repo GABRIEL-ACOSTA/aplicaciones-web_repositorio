@@ -10,7 +10,7 @@ Repositorio personal para almacenar los trabajos desarrollados durante la asigna
 | Universidad | UNIVERSIDAD TECNICA DE MANABI |
 | Carrera | TECNOLOGIAS DE LA INFORMACION Y COMUNICACIONES |
 | Asignatura | Aplicaciones Web |
-| Docente | Ing. LUIS PEREZ |
+| Docente | Ing. MANUEL GEOVANNY BRAVO PICO |
 | Período | 2026 |
 
 ## Actividades
